@@ -1,0 +1,14 @@
+{
+    "name": "gook",
+    "version": "1.0.0",
+    "description": "Projeto Gook - app estático no Railway",
+    "main": "index.html",
+    "scripts": {
+      "start": "serve -s ."
+    },
+    "dependencies": {
+      "serve": "^14.2.0"
+    },
+    "author": "Igor-Ho",
+    "license": "MIT"
+  }
